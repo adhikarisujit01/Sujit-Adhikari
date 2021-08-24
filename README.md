@@ -15,8 +15,8 @@ My Role:
 3. Testing and bug fixing
 4. uploading in playstore
 
-# Project 2: ParkMobile android Project:
-Description: Collaborate daily with the offshore implementation team. Monitor the app post-release to ensure that it is working as expected. Collaborate with the wider team (developers, analysts, product owners, etc.) to produce acceptance criteria for user stories, providing technical and domain expertise to help drive decision-making. Work proactively to remediate adverse customer experiences.
+# Project 2: San Francisco Bay Area Housing Market Analysis:
+Description: Numerous housing market datasets are taken from California Association of Realtors. With the use of R studio, data wrangling jobs were performed to ease the analytics process. In total, there are five different variables, and all the variables are analyzed to see if they impact the housing prices. Power BI, Python, R and Excel are used to complete this project. To conclude this project, it is suggested that the optimal decision for now is to buy a house in the SF bay area. Also, our model suggests that the housing prices will likely go further go in the future, and the average mortgage rate stays stable before it starts increasing. Therefore, it is still the conduciv time to invest in the San Francisco Bay Area Housing Market. 
 [App Store Link:](https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2)
 
 My Role:
