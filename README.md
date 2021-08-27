@@ -36,6 +36,7 @@ Data Analyst
    
 # Contact Information
 Email: adhikarisujit990@gmail.com
+Linkedin: www.linkedin.com/in/sujit-adhikari
 Phone: 662 801 2558
 Address: Richmond, CA
 
