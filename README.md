@@ -27,7 +27,7 @@ Data Analyst
 * It has been concluded that it is relatively costlier to stay in Manhattan than in other neighborhoods. The cost of staying in the house/apartments is higher than that of the       private room and shared rooms.
 * It is suggested to the Airbnb to target the corporate people in New York City to compete against hotels. There are greater revenue generation opportunities in Manhattan neighborhood than in Bronx and Queens for Airbnb. 
 
-**#Project 4: Master Data Management Proposal**
+#Project 4: Master Data Management Proposal
 * Formed a hypothetical company, called ABC company and gave the business value of company as the pet food retailer.
 * Brainstormed the possible business issues of the company that might need the installation of Master Data Management Platform. 
 * It was decided that the ABC company is looking to extend its product line. The process to take the informed decision if the company has to invest in product line extention is     supported by the Master Data Management Program.
