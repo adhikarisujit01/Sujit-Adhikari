@@ -5,56 +5,37 @@ Data Analyst
 ![](/pic.jpg)
 
 # Project 1: Statistical Analysis Analyzing Factors Influencing Credit Card Approval and Credit Limit:
-Description: This analysis has shown that Income, Education Level, Marital Status, and the Number of Dependents is statistically significant while determining the credit limit on a credit card. Customer Age is a factor but less of an influence than other factors. In terms of the factors determining the credit card approval, all the variables; Customer Age, Income, Education Level, Gender, Marital Status, and the Number of Dependents are statistically significant, though Gender is much less significant. In short, Gender affects the credit score approval odds least than other factors.
-Looking ahead, I would like to build the relationship of the given variables with respect to Attrition Flag. I would like to conduct a thorough hypothesis testing and regression modeling to find out why some of the company’s credit card customers are closing the account. It would be interesting to find if the given variables have something to do with the customer’s decision, or is it a strategical failure of a company to retain the customers?
-[App Store:](https://play.google.com/store/apps/details?id=com.udvma.utah)
+* Used Python for Data Cleansing process. The data has been imported from Kaggle.
+* Performed Exploratory Data Analytics to find the relationship among the variables using python.
+* Analyzed different variables using Chi-Square Method
+* Built Linear Regression Model in R to find the best combination of variables that define the impact on credit limit.
+* The Model suggests that Income, Education Level, Marital Status, and the Number of Dependents are statistically significant while determining the credit limit on a credit card.   Gender is the only variable from the dataset which is relatively lesser significant to credit limit. 
 
-My Role:
-1. Developing UI screen
-2. Heat map integration, Google authentication, firebse integration for push notification
-3. Testing and bug fixing
-4. uploading in playstore
 
 # Project 2: San Francisco Bay Area Housing Market Analysis:
-Description: Numerous housing market datasets are taken from California Association of Realtors. With the use of R studio, data wrangling jobs were performed to ease the analytics process. In total, there are five different variables, and all the variables are analyzed to see if they impact the housing prices. Power BI, Python, R and Excel are used to complete this project. To conclude this project, it is suggested that the optimal decision for now is to buy a house in the SF bay area. Also, our model suggests that the housing prices will likely go further go in the future, and the average mortgage rate stays stable before it starts increasing. Therefore, it is still the conduciv time to invest in the San Francisco Bay Area Housing Market. 
-[App Store Link:](https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2)
-
-My Role:
-1. Password reset, veify email, and recover email using Firebase API
-2. Changed Firebase Push notifacation system from GCM.
-3. Credit card scanning functionality
-4. Create Schedulers mock using RxJava Tests and trigger TestScheduler to drive function behavior as expected
-
-# Project 3: DogsApp
-Using android jetpack library under Androidx such as Navigation, Room database, color Palette, Preferences, Permissions, MVVM, databinding and third party library such as Butterknife, Glide, Retrofit with RxJava to make Dogs App which retrieved dogs information from back end Api and to store in Room local database and show in screen using RecyclerView. Here is the [github link:](https://github.com/nabin-g/DogsAppUsingApi)
+* Used Excel for Data Cleaning Process. Data scrapped from California Association of Realtors site, and Federal Reserve site.
+* Used PowerBI and Excel to perform Exploratory Data Analysis. With the help of EDA, different forms of relationships among variables are found out
+* Based on the found out relationship among the variables, a linear regression model is created to find out more about the combination of variables that impact the housing market   prices the most. The major factor to influence the housing market turned out to be the median income of the family. 
+* To conclude this project, it is suggested that the optimal decision for now is to buy a house in the SF bay area. Also, our model suggests that the housing prices will likely go further go in the future, and the average mortgage rate stays stable before it starts increasing. Therefore, it is still the conduciv time to invest in the San Francisco Bay Area Housing Market.
+* One of the interesting finding of this project is that the major influencers in the Bay Area Housing Market are the foreigners and out-of-state investors rather than the locals. 
 
 
-# Project 4: Image Store android app project:
-Using Android java login system using Firebase authentication person can take picture from camera or upload their gallery picture in a app. So this app is basically providing gallery like function. Firebase real database, storage, authentication has been used.
-here is the link for [github link](https://github.com/nabin-g/imageStoreApp)
+# Project 3: Airbnb in New York City
+* This is the descriptive analytics project to find out the relationship among the factors that influence the Airbnb prices in NYC.
+* Data has been downloaded from Kaggle. 
+* Python is used for data cleaning process. The data cleaning process required the change of data types, getting rid of null values, identifying outliers and keeping the only       columns we needed for the analysis.
+* It has been concluded that it is relatively costlier to stay in Manhattan than in other neighborhoods. The cost of staying in the house/apartments is higher than that of the       private room and shared rooms.
+* It is suggested to the Airbnb to target the corporate people in New York City to compete against hotels. There are greater revenue generation opportunities in Manhattan neighborhood than in Bronx and Queens for Airbnb. 
 
-# project 5: Lineminder android app
-It is app for storing information of scrap produced from the industry. It is manual process so employee who is going to enter the information based on 8 digits employee id. Using jdbc library for database connection to MSSQL and the information of scrap part number, employee number, quantity, reason code has been submitted in database.
-[Github link]()(link is private)
-
-# project 6: Visiting Places Android App in Kotlin:
-It is the android app where camera funtionality along with map is included. Here the user can also select date. The title, description, date, address and image is uploaded in SQLite database. THe information is shown using recyclerview.
-[Github link](https://github.com/nabin-g/visitingPlacesInKotlin)
-
-# Project 7: Laravel PHP project:
-Just like newspaper site it is one of the site made using PHP laravel framework:[Github link](https://github.com/nabin-g/WorldPedia.info)
-[Site link:](https://worldpedia.info/)
-
-# Other project:
-  # Object detection using python:
-   Using python programming object is detected based on ultrasonic sensor and detected object is recorded by camera connected in the raspberry pi. The recorded video is uploaded    in AWS S3 bucket.
-   [Github link](https://github.com/nabin-g/objectdetection) (link is private)
-
- # Drillpress and motor kit project:
-  The image data along with vibration, temperature data is sent to the backend platform through MQTT broker. Here Raspberry Pi detect the object when machine runs and send near   miss image to the Cat-M1 module through the UART connection. Similarly, vibration and temperature sensors are connected to the Cat-M1 module through the groove connectors and   data along with image data has been sent to backend using cellular connection. The Sprint sim card is the media for cellular connection. The main goal of this project is to     replace the Wi-Fi connection through cellular connection.[Github link](https://github.com/nabin-g/drillpress)(link is private)
+**#Project 4: Master Data Management Proposal**
+* Formed a hypothetical company, called ABC company and gave the business value of company as the pet food retailer.
+* Brainstormed the possible business issues of the company that might need the installation of Master Data Management Platform. 
+* It was decided that the ABC company is looking to extend its product line. The process to take the informed decision if the company has to invest in product line extention is     supported by the Master Data Management Program.
+* Key business drivers were found out and it was suggested that the company needed to invest in MDM program.
+* Various processes of building the MDM programs are discussed in detail. 
    
 # Contact Information
-Email: nabin.g14@gmail.com
-Phone: 616 828 3266
+Email: adhikarisujit990@gmail.com
+Phone: 662 801 2558
 Address: Richmond, CA
 
